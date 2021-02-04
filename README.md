@@ -1,0 +1,2 @@
+# AutoFlipFlowLayout
+支持自动翻页的流式布局Android组件
