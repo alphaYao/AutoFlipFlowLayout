@@ -1,0 +1,3 @@
+include ':AutoFlipFlowLayoutlib'
+include ':app'
+rootProject.name = "AutoFlipFlowLayout"
